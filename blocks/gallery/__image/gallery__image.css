@@ -4,7 +4,7 @@
   object-position: center;
 }
 
-.gallery__image:hover {
+.gallery__image:focus {
  transform: scale(1.15);
  transition: transform 1s ease-in-out;
 }
