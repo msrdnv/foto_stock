@@ -1,5 +1,9 @@
 .footer__author {
   margin: auto;
   padding: 0;
-  color: white;
+  color:aliceblue;
+  font-family:'Helvetica Neue', Arial, sans-serif;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
 }
